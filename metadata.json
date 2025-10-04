@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Editor",
+  "description": "A modern web application that leverages the Gemini API to generate and edit high-quality images from text prompts. Users can generate from scratch or upload their own images to modify.",
+  "requestFramePermissions": []
+}
